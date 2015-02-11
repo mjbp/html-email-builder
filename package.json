@@ -1,0 +1,14 @@
+{
+  "title": "email",
+  "url": "email",
+  "author": "Binary Vein Digital Media [binaryvein.com]",
+  "version": "1.0.0",
+  "dependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-newer": "~0.7.0",
+    "grunt-contrib-imagemin": "~0.7.1",
+    "grunt-premailer": "~0.2.7",
+	"grunt-mailgun": "0.0.3"
+  }
+}
