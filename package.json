@@ -1,8 +1,8 @@
 {
-  "title": "email",
-  "url": "email",
-  "author": "Binary Vein Digital Media [binaryvein.com]",
-  "version": "1.0.0",
+  "title": "htmlemailbuilder",
+  "url": "https://github.com/mjbp/html-email-builder",
+  "author": "mjbp",
+  "version": "0.3.0",
   "dependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-watch": "~0.5.3",

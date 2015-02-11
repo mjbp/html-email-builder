@@ -46,9 +46,9 @@ module.exports = function(grunt) {
         mailgun: {
           mailer: {
             options: {
-              key: 'key-7b7afd2aae081f12ab49b67077f5e1db', // Enter your Mailgun API key here
-              sender: 'mick@binaryvein.com', // Change this
-              recipient: ['mickperkins@gmail.com'], // Change this
+              key: '', // Enter your Mailgun API key here
+              sender: '', // Change this
+              recipient: [''], // Change this
               subject: 'This is a test email'
             },
             src: ['<%= project.src %>/index.html']
